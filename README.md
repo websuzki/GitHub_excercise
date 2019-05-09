@@ -13,9 +13,11 @@ Developとfeatureブランチを使用して、機能ごとに、実装し、
 ##ブランチ間のテスト:5月8日～10日
 挙動をテストするために、3つのブランチを作成した
 
-Windows:Cygwin上のGit→win_workfile
-Windows:MINGW上のGit→ ming64_workfile
-GitHubで直接編集するブランチ→workfile
+|key|value|
+|----|----|
+|Windows:Cygwin上のGit|win_workfile|
+|Windows:MINGW上のGit|ming64_workfile|
+|GitHubで直接編集するブランチ|workfile|
 
 
 
