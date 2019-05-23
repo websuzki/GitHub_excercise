@@ -9,6 +9,11 @@ Gitを実際の使用に近い形で使いこなせるように練習するた�
 - release/(バージョン番号）
 - hotfix/（バグ識別名）
 
+# filter-branchの演習:5月19日
+アカウント名をwebsuzkiに変更したために、Contribusionが大幅に削除されてしまった。
+この理由が、AuthorのEmailアドレスが、旧アカウントのものであるためだと勘違いし、
+この日は、 filter-branchに夜Emailアドレスの変更を練習した
+
 # pull Request時のコンフリクト解決:5月17日
 Pull Request時にコンフリクトが起こった場合の解決を練習。コードレビューもするようにした
 
@@ -25,7 +30,7 @@ Developとfeatureブランチを使用して、機能ごとに、実装し、
 # ブランチ間のテスト:5月8日～10日
 挙動をテストするために、3つのブランチを作成した
 
-|key|value|
+|各ブランチの場所|ブランチ名|
 |----|----|
 |Windows:Cygwin上のGit|win_workfile|
 |Windows:MINGW上のGit|ming64_workfile|
